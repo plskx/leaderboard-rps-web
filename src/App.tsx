@@ -28,7 +28,7 @@ function App() {
       }
     }
     fetchData();
-  }, []);
+  }, [users]);
 
   return (
     <main className="flex flex-col items-center justify-center gap-11 py-7">
