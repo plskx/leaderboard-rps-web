@@ -1,5 +1,7 @@
 # supa-rps-web
 
+- [plskx/supa-rps: SwiftUI Rock paper scissor with Supabase](https://github.com/plskx/supa-rps)
+
 <img width="1624" alt="image" src="https://github.com/plskx/leaderboard-rps-web/assets/57343545/989e1e45-3f13-4072-8c89-18db94109e17">
 
 <div align="center">
