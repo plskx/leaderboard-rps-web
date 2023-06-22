@@ -1,8 +1,8 @@
 import { useEffect, useState } from 'react';
-import { supabase } from './lib/supabase';
 import { DisplayNoData } from './components/DisplayNoData';
-import { User } from './types';
 import { DisplayUsers } from './components/DisplayUsers';
+import { supabase } from './lib/supabase';
+import { User } from './types';
 
 function App() {
   const [users, setUsers] = useState<User[]>([]);
